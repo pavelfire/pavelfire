@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavelfire
 - 👀 I’m interested in Android developing, Backend Developing, Machine Learning, AI agents, Web.
-- 🌱 I’m Kotlin Java Android App Developer and Golang Developer,
+- 🌱 I’m Kotlin Java Android App Developer, Golang Developer, Python Developer
 - 📫 My apps in Google Play:  https://play.google.com/store/apps/developer?id=Pavel+Vasilevich&hl=en&gl=US
 - 💞️ I’m looking to collaborate on developing something great
 
